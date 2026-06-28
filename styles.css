@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: rgb(255, 198, 123);
+}
+
+body {
+    display: flex;
+}
+
+img {
+    height: 100vh;
+    /*clip-path:inset(0 30% 0 0);*/
+}
+
+.intro-text {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.text {
+    padding: 10px;
+}
+
+.carrots {
+    width: 33%;
+}
+
